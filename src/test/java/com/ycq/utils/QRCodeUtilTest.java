@@ -1,6 +1,7 @@
-package com.ycq.utils.qrcode;
+package com.ycq.utils;
 
 import com.google.zxing.WriterException;
+import com.ycq.utils.QRCodeUtil;
 import org.apache.commons.io.IOUtils;
 import org.junit.Test;
 

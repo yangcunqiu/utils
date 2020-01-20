@@ -1,4 +1,4 @@
-package com.ycq.utils.qrcode;
+package com.ycq.utils;
 
 import com.sun.org.slf4j.internal.Logger;
 import com.sun.org.slf4j.internal.LoggerFactory;
@@ -287,7 +287,7 @@ public class QRCodeUtil {
 
     /**
      * Description: 解析二维码
-     * @param BufferedImage对象
+     * @param  BufferedImage对象
      * @return Result
      * @author 杨存秋
      * date 2020/1/8 16:18
